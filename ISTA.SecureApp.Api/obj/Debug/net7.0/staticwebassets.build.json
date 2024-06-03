@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZJ7HftNo2BHivbJ6II5ydU60/eri+RoajJ8t7YEVQ5U=",
+  "Source": "ISTA.SecureApp.Api",
+  "BasePath": "_content/ISTA.SecureApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

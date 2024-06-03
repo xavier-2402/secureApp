@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ISTA.SecureApp.Models\ISTA.SecureApp.Models.csproj" />
+    <ProjectReference Include="..\ISTA.SecureApp.Repositories\ISTA.SecureApp.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

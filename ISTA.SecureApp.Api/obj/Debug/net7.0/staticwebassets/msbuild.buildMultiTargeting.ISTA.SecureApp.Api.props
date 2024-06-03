@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ISTA.SecureApp.Api.props" />
+</Project>

@@ -1,0 +1,294 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj",
+        "projectName": "ISTA.SecureApp.Api",
+        "projectPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj",
+        "packagesPath": "C:\\Users\\stali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj": {
+                "projectPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj"
+              },
+              "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj": {
+                "projectPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj"
+              },
+              "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Services\\ISTA.SecureApp.Services.csproj": {
+                "projectPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Services\\ISTA.SecureApp.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj",
+        "projectName": "ISTA.SecureApp.Models",
+        "projectPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj",
+        "packagesPath": "C:\\Users\\stali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj",
+        "projectName": "ISTA.SecureApp.Repositories",
+        "projectPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj",
+        "packagesPath": "C:\\Users\\stali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj": {
+                "projectPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Services\\ISTA.SecureApp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Services\\ISTA.SecureApp.Services.csproj",
+        "projectName": "ISTA.SecureApp.Services",
+        "projectPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Services\\ISTA.SecureApp.Services.csproj",
+        "packagesPath": "C:\\Users\\stali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj": {
+                "projectPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj"
+              },
+              "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj": {
+                "projectPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

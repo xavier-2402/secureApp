@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ISTA.SecureApp.Api.props" />
+</Project>

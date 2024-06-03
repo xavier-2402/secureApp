@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9X0lEa1gI5WoP1aJnKIXdcstbaSt9FH6riXqeswDf2R0+agwdmt3VomO0Xd+eW4unoHOt6IicF9qXK60PwGyNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stali\\.nuget\\packages\\mongodb.bson\\2.25.0\\mongodb.bson.2.25.0.nupkg.sha512",
+    "C:\\Users\\stali\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\stali\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

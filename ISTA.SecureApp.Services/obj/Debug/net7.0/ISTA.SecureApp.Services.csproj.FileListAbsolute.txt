@@ -1,0 +1,17 @@
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\bin\Debug\net7.0\ISTA.SecureApp.Services.deps.json
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\bin\Debug\net7.0\ISTA.SecureApp.Services.dll
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\bin\Debug\net7.0\ISTA.SecureApp.Services.pdb
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\bin\Debug\net7.0\ISTA.SecureApp.Models.dll
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\bin\Debug\net7.0\ISTA.SecureApp.Repositories.dll
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\bin\Debug\net7.0\ISTA.SecureApp.Models.pdb
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\bin\Debug\net7.0\ISTA.SecureApp.Repositories.pdb
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\ISTA.SecureApp.Services.csproj.AssemblyReference.cache
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\ISTA.SecureApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\ISTA.SecureApp.Services.AssemblyInfoInputs.cache
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\ISTA.SecureApp.Services.AssemblyInfo.cs
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\ISTA.SecureApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\ISTA.Sec.F5C67C7F.Up2Date
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\ISTA.SecureApp.Services.dll
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\refint\ISTA.SecureApp.Services.dll
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\ISTA.SecureApp.Services.pdb
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\ref\ISTA.SecureApp.Services.dll
