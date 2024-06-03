@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97660E9D-E2E6-448E-9672-2A79C2DAFFD6}|ISTA.SecureApp.Services\\ISTA.SecureApp.Services.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97660E9D-E2E6-448E-9672-2A79C2DAFFD6}|ISTA.SecureApp.Services\\ISTA.SecureApp.Services.csproj|solutionrelative:ista.secureapp.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF043CCE-A469-4327-9A6F-1EA7124729D3}|ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF043CCE-A469-4327-9A6F-1EA7124729D3}|ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj|solutionrelative:ista.secureapp.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8F4D581-C011-4E12-8275-58F97BB7FC49}|ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8F4D581-C011-4E12-8275-58F97BB7FC49}|ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj|solutionrelative:ista.secureapp.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|solutionrelative:ista.secureapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF043CCE-A469-4327-9A6F-1EA7124729D3}|ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.repositories\\dbcontext\\mongo\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF043CCE-A469-4327-9A6F-1EA7124729D3}|ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj|solutionrelative:ista.secureapp.repositories\\dbcontext\\mongo\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|solutionrelative:ista.secureapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|solutionrelative:ista.secureapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97660E9D-E2E6-448E-9672-2A79C2DAFFD6}|ISTA.SecureApp.Services\\ISTA.SecureApp.Services.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97660E9D-E2E6-448E-9672-2A79C2DAFFD6}|ISTA.SecureApp.Services\\ISTA.SecureApp.Services.csproj|solutionrelative:ista.secureapp.services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|solutionrelative:ista.secureapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4D581-C011-4E12-8275-58F97BB7FC49}|ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4D581-C011-4E12-8275-58F97BB7FC49}|ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj|solutionrelative:ista.secureapp.models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97660E9D-E2E6-448E-9672-2A79C2DAFFD6}|ISTA.SecureApp.Services\\ISTA.SecureApp.Services.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97660E9D-E2E6-448E-9672-2A79C2DAFFD6}|ISTA.SecureApp.Services\\ISTA.SecureApp.Services.csproj|solutionrelative:ista.secureapp.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.api\\middlewares\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +35,24 @@
       "RelativeMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|solutionrelative:ista.secureapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|solutionrelative:ista.secureapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BF043CCE-A469-4327-9A6F-1EA7124729D3}|ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF043CCE-A469-4327-9A6F-1EA7124729D3}|ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj|solutionrelative:ista.secureapp.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97660E9D-E2E6-448E-9672-2A79C2DAFFD6}|ISTA.SecureApp.Services\\ISTA.SecureApp.Services.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.services\\encript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97660E9D-E2E6-448E-9672-2A79C2DAFFD6}|ISTA.SecureApp.Services\\ISTA.SecureApp.Services.csproj|solutionrelative:ista.secureapp.services\\encript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF043CCE-A469-4327-9A6F-1EA7124729D3}|ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.repositories\\dbcontext\\mongo\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF043CCE-A469-4327-9A6F-1EA7124729D3}|ISTA.SecureApp.Repositories\\ISTA.SecureApp.Repositories.csproj|solutionrelative:ista.secureapp.repositories\\dbcontext\\mongo\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504DDE2F-8EFB-4545-994A-5AE385F01908}|ISTA.SecureApp.Api\\ISTA.SecureApp.Api.csproj|solutionrelative:ista.secureapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4D581-C011-4E12-8275-58F97BB7FC49}|ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj|c:\\users\\stali\\documents\\ista\\ista.secureapp\\ista.secureapp.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4D581-C011-4E12-8275-58F97BB7FC49}|ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj|solutionrelative:ista.secureapp.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,9 +61,97 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 54,
+          "SelectedChildIndex": 15,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ISTA.SecureApp.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ISTA.SecureApp.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:57:56.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\Login.cs",
+              "RelativeDocumentMoniker": "ISTA.SecureApp.Models\\Login.cs",
+              "ToolTip": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\Login.cs",
+              "RelativeToolTip": "ISTA.SecureApp.Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:44:09.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ISTA.SecureApp.Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Services\\AuthService.cs",
+              "RelativeToolTip": "ISTA.SecureApp.Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:43:01.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Encript.cs",
+              "DocumentMoniker": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Services\\Encript.cs",
+              "RelativeDocumentMoniker": "ISTA.SecureApp.Services\\Encript.cs",
+              "ToolTip": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Services\\Encript.cs",
+              "RelativeToolTip": "ISTA.SecureApp.Services\\Encript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:42:01.321Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
@@ -56,14 +160,14 @@
               "RelativeDocumentMoniker": "ISTA.SecureApp.Api\\Program.cs",
               "ToolTip": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\Program.cs",
               "RelativeToolTip": "ISTA.SecureApp.Api\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAIwCYAAAABAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T16:29:47.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "MongoContext.cs",
               "DocumentMoniker": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Repositories\\DbContext\\Mongo\\MongoContext.cs",
               "RelativeDocumentMoniker": "ISTA.SecureApp.Repositories\\DbContext\\Mongo\\MongoContext.cs",
@@ -76,26 +180,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ISTA.SecureApp.Api\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\Controllers\\UserController.cs",
               "RelativeToolTip": "ISTA.SecureApp.Api\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBsAAAAoAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T15:57:18.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\appsettings.json",
               "RelativeDocumentMoniker": "ISTA.SecureApp.Api\\appsettings.json",
               "ToolTip": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\appsettings.json",
               "RelativeToolTip": "ISTA.SecureApp.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-03T16:28:13.957Z",
               "EditorCaption": ""
@@ -108,40 +212,40 @@
               "RelativeDocumentMoniker": "ISTA.SecureApp.Api\\Middlewares\\Middleware.cs",
               "ToolTip": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\Middlewares\\Middleware.cs",
               "RelativeToolTip": "ISTA.SecureApp.Api\\Middlewares\\Middleware.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBkAAAAMAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwDwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T16:10:08.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "ISTA.SecureApp.Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Repositories\\UserRepository.cs",
               "RelativeToolTip": "ISTA.SecureApp.Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBwAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T16:32:24.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Services\\UserService.cs",
               "RelativeDocumentMoniker": "ISTA.SecureApp.Services\\UserService.cs",
               "ToolTip": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Services\\UserService.cs",
               "RelativeToolTip": "ISTA.SecureApp.Services\\UserService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAADwvxMAAAA7AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T16:34:55.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Api\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "ISTA.SecureApp.Api\\Controllers\\WeatherForecastController.cs",
@@ -154,16 +258,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\User.cs",
               "RelativeDocumentMoniker": "ISTA.SecureApp.Models\\User.cs",
               "ToolTip": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\User.cs",
               "RelativeToolTip": "ISTA.SecureApp.Models\\User.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAoAAAAXAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwAQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T15:55:14.209Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

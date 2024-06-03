@@ -10,3 +10,4 @@ C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Models\obj\Debug\net
 C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Models\obj\Debug\net7.0\ISTA.SecureApp.Models.pdb
 C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Models\obj\Debug\net7.0\ref\ISTA.SecureApp.Models.dll
 C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Models\obj\Debug\net7.0\ISTA.SecureApp.Models.csproj.AssemblyReference.cache
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Models\obj\Debug\net7.0\ISTA.SecureApp.Models.sourcelink.json

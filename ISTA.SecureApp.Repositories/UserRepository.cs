@@ -25,5 +25,13 @@ namespace ISTA.SecureApp.Repositories
                 .Find(Builders<User>.Filter.Empty)
                 .ToList();
         }
+
+        public User? Login(Login login)
+        {
+
+            var filter = Builders<User>.Filter.Eq(x => x.UserName, login.Username)
+               & Builders<User>.Filter.Eq(x => x.Password, login.Password);
+           return _context.users.Find(filter).FirstOrDefault();
+        }
     }
 }

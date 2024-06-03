@@ -15,3 +15,4 @@ C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\n
 C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\refint\ISTA.SecureApp.Services.dll
 C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\ISTA.SecureApp.Services.pdb
 C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\ref\ISTA.SecureApp.Services.dll
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Services\obj\Debug\net7.0\ISTA.SecureApp.Services.sourcelink.json

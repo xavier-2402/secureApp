@@ -13,3 +13,4 @@ C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Repositories\obj\Deb
 C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\refint\ISTA.SecureApp.Repositories.dll
 C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ISTA.SecureApp.Repositories.pdb
 C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ref\ISTA.SecureApp.Repositories.dll
+C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ISTA.SecureApp.Repositories.sourcelink.json

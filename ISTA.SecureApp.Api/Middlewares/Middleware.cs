@@ -1,4 +1,8 @@
-﻿using System.Text.RegularExpressions;
+﻿using MongoDB.Bson.IO;
+using System.ComponentModel.DataAnnotations;
+using System.Net;
+using System.Security.Authentication;
+using System.Text.RegularExpressions;
 
 namespace ISTA.SecureApp.Api.Middlewares
 {
@@ -45,7 +49,17 @@ namespace ISTA.SecureApp.Api.Middlewares
                 context.Request.Body.Position = 0;
             }
 
-            await _next(context);
+            try
+            {
+                await _next(context);
+            }
+            catch (Exception error)
+            {
+                var response = context.Response;
+                response.ContentType = "application/json";
+                response.StatusCode = (int)GetErrorCode(error);
+                await response.WriteAsync(error.Message);
+            }
         }
 
         private bool IsValidInput(string input)
@@ -59,6 +73,19 @@ namespace ISTA.SecureApp.Api.Middlewares
             if (Regex.IsMatch(input, patternSQL, RegexOptions.IgnoreCase)) return false;
 
             return true;
+        }
+
+        private static HttpStatusCode GetErrorCode(Exception e)
+        {
+            return e switch
+            {
+                UnauthorizedAccessException _ => HttpStatusCode.Unauthorized,
+                ValidationException _ => HttpStatusCode.BadRequest,
+                FormatException _ => HttpStatusCode.BadRequest,
+                AuthenticationException _ => HttpStatusCode.Unauthorized,
+                NotImplementedException _ => HttpStatusCode.NotImplemented,
+                _ => HttpStatusCode.InternalServerError,
+            };
         }
     }
 }
