@@ -125,19 +125,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\stali\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\ISTA\\CLASES\\Aplicaciones Seguras\\App\\secureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj",
       "projectName": "ISTA.SecureApp.Models",
-      "projectPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj",
-      "packagesPath": "C:\\Users\\stali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stali\\Documents\\ISTA\\ISTA.SecureApp\\ISTA.SecureApp.Models\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\ISTA\\CLASES\\Aplicaciones Seguras\\App\\secureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\ISTA\\CLASES\\Aplicaciones Seguras\\App\\secureApp\\ISTA.SecureApp.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\stali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -157,11 +157,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -189,7 +184,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

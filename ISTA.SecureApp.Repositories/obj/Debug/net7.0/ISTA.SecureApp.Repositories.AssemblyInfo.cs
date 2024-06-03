@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ISTA.SecureApp.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd5a8ccb48a00584374511e5e738ea49c9f0bcc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ISTA.SecureApp.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ISTA.SecureApp.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
