@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.20" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ISTA.SecureApp.Models\ISTA.SecureApp.Models.csproj" />
     <ProjectReference Include="..\ISTA.SecureApp.Repositories\ISTA.SecureApp.Repositories.csproj" />
   </ItemGroup>
