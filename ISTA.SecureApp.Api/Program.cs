@@ -1,3 +1,5 @@
+using AutoMapper;
+using ISTA.SecureApp.Api;
 using ISTA.SecureApp.Api.Middlewares;
 using ISTA.SecureApp.Repositories;
 using ISTA.SecureApp.Repositories.DbContext.Mongo;
@@ -32,6 +34,13 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+var mapperConfig = new MapperConfiguration(mc =>
+{
+    mc.AddProfile(new MappingProfile());
+});
+
+IMapper mapper = mapperConfig.CreateMapper();
+builder.Services.AddSingleton(mapper);
 
 builder.Services.Configure<MongoSetting>(builder.Configuration.GetSection(nameof(MongoSetting)));
 

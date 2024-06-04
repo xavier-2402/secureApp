@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "LDZw7pTlPwx0F7ZjldFtOmxT/c7NstMP8BzArv8w22ruliSdekOQ13vq8C/8Tw4Pt8sTgUIR2/82VlblBohI7Q==",
+  "dgSpecHash": "AjhylcNyP0x2TdADHPWyoDMRQBZs4clxmADkUdlSsAhmqDx67PdakZb047Br5gBs557rAgaE+kPc+DQDgtVX4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS\\Documents\\ISTA\\CLASES\\Aplicaciones Seguras\\App\\secureApp\\ISTA.SecureApp.Models\\ISTA.SecureApp.Models.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\mongodb.bson\\2.25.0\\mongodb.bson.2.25.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

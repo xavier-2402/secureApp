@@ -14,3 +14,19 @@ C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Repositories\obj\Deb
 C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ISTA.SecureApp.Repositories.pdb
 C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ref\ISTA.SecureApp.Repositories.dll
 C:\Users\stali\Documents\ISTA\ISTA.SecureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ISTA.SecureApp.Repositories.sourcelink.json
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\bin\Debug\net7.0\ISTA.SecureApp.Repositories.deps.json
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\bin\Debug\net7.0\ISTA.SecureApp.Repositories.dll
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\bin\Debug\net7.0\ISTA.SecureApp.Repositories.pdb
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\bin\Debug\net7.0\ISTA.SecureApp.Models.dll
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\bin\Debug\net7.0\ISTA.SecureApp.Models.pdb
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ISTA.SecureApp.Repositories.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ISTA.SecureApp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ISTA.SecureApp.Repositories.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ISTA.SecureApp.Repositories.AssemblyInfo.cs
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ISTA.SecureApp.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ISTA.SecureApp.Repositories.sourcelink.json
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ISTA.SecureApp.Repositories.csproj.CopyComplete
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ISTA.SecureApp.Repositories.dll
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\refint\ISTA.SecureApp.Repositories.dll
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ISTA.SecureApp.Repositories.pdb
+C:\Users\ASUS\Documents\ISTA\CLASES\Aplicaciones Seguras\App\secureApp\ISTA.SecureApp.Repositories\obj\Debug\net7.0\ref\ISTA.SecureApp.Repositories.dll

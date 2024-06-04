@@ -23,7 +23,7 @@ namespace ISTA.SecureApp.Services
         public string? Login(Login login)
         {
             login.Password = Encript.EncriptPassword(login.Password);
-            var user = _userRepository.Login(login) ?? throw new ValidationException("User not found");
+            var user = _userRepository.Login(login) ?? throw new ValidationException("Invalid credentials");
             List<Claim> claims = new()
             {
                 new Claim(ClaimTypes.Sid, user.Id),

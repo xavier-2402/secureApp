@@ -21,6 +21,7 @@ namespace ISTA.SecureApp.Api.Controllers
 
         [HttpPost]
         [Route("add")]
+        //[Authorize(Roles = "admin")]
         public IActionResult Add(User user)
         {
             if(!ModelState.IsValid)
@@ -33,6 +34,8 @@ namespace ISTA.SecureApp.Api.Controllers
 
         [HttpGet]
         [Route("get-all")]
+        [Authorize(Roles = "admin")]
+
         public IActionResult GetAll()
         {
             return Ok(_service.GetAll());
