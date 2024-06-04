@@ -21,7 +21,7 @@ namespace ISTA.SecureApp.Api.Controllers
 
         [HttpPost]
         [Route("add")]
-        //[Authorize(Roles = "admin")]
+        [Authorize(Roles = "admin")]
         public IActionResult Add(User user)
         {
             if(!ModelState.IsValid)

@@ -29,6 +29,10 @@ namespace ISTA.SecureApp.Services
                 new Claim(ClaimTypes.Sid, user.Id),
                 new Claim(ClaimTypes.Name, user.UserName),
             };
+            if (user.Id.Equals("665e39d734a7a1890c770778"))
+            {
+                claims.Add(new Claim(ClaimTypes.Role, "admin"));
+            }
 
             var secretKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(this.secretKey));
             var signinCredentials = new SigningCredentials(secretKey, SecurityAlgorithms.HmacSha256);

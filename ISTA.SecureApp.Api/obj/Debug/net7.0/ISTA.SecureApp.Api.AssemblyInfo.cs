@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ISTA.SecureApp.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8eb7b60035870aa0bc98cb70a6a9c416084df733")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ac9d491d0f695cb6ee052e210c8843304f011a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ISTA.SecureApp.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ISTA.SecureApp.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
